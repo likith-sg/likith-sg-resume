@@ -1,0 +1,8 @@
+
+###  **`MANIFEST.in`**
+This file ensures that all necessary files, including the PDF and README, are included in the package distribution.
+
+```plaintext
+include README.md
+include LICENSE
+include likith-sg-resume.pdf  
